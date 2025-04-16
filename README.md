@@ -13,8 +13,8 @@ This Python tool scans a specified IP network range (CIDR notation) for common o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brayan-brian-hub/network-scanner.git
-   cd network-scanner
+   git clone https://github.com/brayan-brian-hub/local-network-port-scanner.git
+   cd local-network-port-scanner
 
 2. Run the script:
     python network_scanner.py
